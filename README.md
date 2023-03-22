@@ -1,6 +1,6 @@
 ### Bem vindo  Eu sou Matheus Baltar
-- 📝atualmente me aprofundando em Front End
-- Estudando Javascript
+- 📝Aprofundando em Front End
+- ⏰Estudando Javascript
 
 
 <div>
