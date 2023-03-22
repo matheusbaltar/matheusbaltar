@@ -5,7 +5,6 @@
 
 <div>
   <a href="https://github.com/matheusbaltar">
-  <img height="180" src="(https://github-readme-stats.vercel.app/api?username=matheusbaltar&show_icons=true&theme=radical&include_all_commits=true&count_private=true)"/>
-  <img height="180" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbaltar&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180" src="https://i.pinimg.com/236x/df/4e/ed/df4eed3834958c31bef75e446e5e8874.jpg"/>
                            
 </div>                         
