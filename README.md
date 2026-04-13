@@ -100,7 +100,7 @@ class Developer:
 - Fully containerized with Docker + PostgreSQL
 - Developed as part of a Backend Programming Lab course
 
-![Status](https://img.shields.io/badge/status-complete-00FF9C?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/status-active-00FF9C?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
