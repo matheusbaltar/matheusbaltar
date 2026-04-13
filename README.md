@@ -90,16 +90,17 @@ class Developer:
 <td width="50%">
 
 ### 🔧 [SGTA](https://github.com/matheusbaltar/sgta)
-> Sistema de Gerenciamento de Tarefas Academicas.
+> Academic Task Management System — REST API built for students and teachers.
 
-**Stack:** `Python` · `FastAPI` · `PostgreSQL` · `Docker`
+**Stack:** `Python` · `Django` · `DRF` · `PostgreSQL` · `Docker`
 
 **Features:**
-- Add Activity
-- Manage all in one place and edit attribute tasks  
+- Role-based flow — students create & track tasks, teachers assign activities
+- REST API built with Django REST Framework
+- Fully containerized with Docker + PostgreSQL
+- Developed as part of a Backend Programming Lab course
 
-  
-![Status](https://img.shields.io/badge/status-building-yellow?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/status-complete-00FF9C?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
