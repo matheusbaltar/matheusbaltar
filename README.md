@@ -73,7 +73,7 @@ class Developer:
 <tr>
 <td width="50%">
 
-### 🍺 [Brew Recipe API](https://github.com/matheusbaltar/brew-api)
+### 🍺 [Brew Recipe API](https://github.com/matheusbaltar/BrewRecipeAPI)
 > A Django REST API for storing and managing full homebrew & craft beer recipes.
 
 **Stack:** `Python` · `Django 5.2` · `DRF` · `SQLite/Postgres`
